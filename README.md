@@ -14,3 +14,7 @@ Se repartirá el trabajo de manera equitativa a la hora de hacer el proyecto, po
 -Kevin: Frontend y validaciones.
 
 
+Proyecto en trello: https://trello.com/b/3ud8JA9R/proyectodiscos
+
+
+Rama en github: https://github.com/MDNSLeYeNDa/ProyectoDiscos
